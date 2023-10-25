@@ -1,1 +1,3 @@
 # semantic_similarity_calculation
+
+huggingfaceの学習済みモデルを用いた意味的類似度の回帰モデルの開発。
